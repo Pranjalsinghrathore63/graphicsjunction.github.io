@@ -1,0 +1,99 @@
+.carouselExampleIndicators{
+    padding-top: 20px;
+
+}
+.carousel{
+    padding-top: 20px;
+  
+}
+.container{
+    width: 20px;
+    margin-top: 40px;
+    display: flex;
+    cursor: pointer;
+}
+button{
+    display: flex;
+}
+
+.d-flex{
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.e-flex{
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+.btn btn-success{
+    padding-left: 2px;
+    padding-right: 2px;
+    margin: 2px;
+    margin-left: 5px;
+    margin-right: 2px;
+}
+
+#carouselExampleCaptions{
+    height: 50vh;
+    width: 100%;
+}
+
+.card-group{
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+/* .card1{
+    margin-left: 20px;
+    margin-right: 20px;
+
+} */
+
+.card{
+
+    padding-bottom: 20px;
+}
+
+.card-img{
+    padding-top: 20px;
+}
+/* .btn{
+    padding-left: 2px;
+    padding-right: 2px;
+} */
+.c{
+    font-size: medium;
+}
+
+.box{
+    font-size: xx-large;
+    text-align: center;
+}
+.bg-warning{
+    font-size: xx-large;
+    text-align: center;
+    
+}
+button{
+    text-align: center;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ser{
+    width: 1000px;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+  font-size: xx-large;
+}
+
+.hidden lg:inline-block{
+    text-emphasis-color: primary;
+}
